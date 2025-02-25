@@ -30,3 +30,11 @@ A smart productivity tool that monitors your computer activity using AI vision m
 4. (Optional) For Linux/macOS users:
    ```bash
    sudo apt-get install scrot  # For screenshot functionality
+
+# Usage
+
+1. Start the application:
+   ```bash
+   python main.py
+2. Set your focus goal (e.g., "Coding in VS Code and researching in Chrome")
+3. Adjust settings:
