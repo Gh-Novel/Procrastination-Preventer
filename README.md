@@ -43,3 +43,6 @@ A smart productivity tool that monitors your computer activity using AI vision m
    - Dark/Light theme
 4. Click "Start Focus Session" to begin monitoring
 5. Use "View Analysis" to review historical session data and achievements
+
+#Main UI:
+![image](https://github.com/user-attachments/assets/6566243b-ecb1-4de2-bb5a-602b9d598928)
