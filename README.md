@@ -21,5 +21,12 @@ A smart productivity tool that monitors your computer activity using AI vision m
 ### Setup
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/focus-system.git
+   git clone https://github.com/Gh-Novel/Procrastination-Preventer.git
    cd focus-system
+2. Install dependencies:
+   ```bash
+   pip install customtkinter matplotlib pyautogui groq pillow
+3. Create api.txt in root directory and paste your Groq API key
+4. (Optional) For Linux/macOS users:
+   ```bash
+   sudo apt-get install scrot  # For screenshot functionality
