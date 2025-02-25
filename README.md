@@ -46,3 +46,6 @@ A smart productivity tool that monitors your computer activity using AI vision m
 
 #Main UI:
 ![image](https://github.com/user-attachments/assets/6566243b-ecb1-4de2-bb5a-602b9d598928)
+#Alert warning:
+![image](https://github.com/user-attachments/assets/cd72281b-6449-4261-9464-343f3a768e55)
+
