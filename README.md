@@ -1,4 +1,4 @@
-# Focus Guardian: Your AI-Powered Productivity Ally
+# Procrastination Prevention: Your AI-Powered Productivity Ally
 
 Focus Guardian is an intelligent, AI-driven tool designed to help you overcome procrastination and reclaim your focus. By dynamically analyzing your screen activity and translating your personal work goals into actionable rules, it acts as your digital guardian against distractions.
 
