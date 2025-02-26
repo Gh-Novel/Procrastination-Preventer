@@ -1,51 +1,44 @@
-# Focus - Procrastination Prevention System
+# **Focus Guardian: Your AI-Powered Productivity Ally**
 
-A smart productivity tool that monitors your computer activity using AI vision models, helps maintain focus through alerts, and provides detailed session analytics.
+Focus Guardian is an intelligent, AI-driven tool designed to help you overcome procrastination and reclaim your focus. By dynamically analyzing your screen activity and translating your personal work goals into actionable rules, it acts as your digital guardian against distractions.
 
-## Features
+## **Key Features**
 
-- **Goal-Oriented Monitoring**: Set a focus goal and get alerts when distracted
-- **AI-Powered Analysis**: Uses Groq's LLMs and vision models to detect distractions
-- **Focus Timeline Visualization**: See your focus patterns with interactive charts
-- **Achievement System**: Earn badges for focused work sessions
-- **Cross-Platform Support**: Works on Windows, macOS, and Linux
-- **Focus Mode**: Auto-block distracting websites after configurable warnings
+- **Real-Time Monitoring**: Continuously captures and analyzes your screen to detect unproductive activities.
+- **Dynamic Goal Parsing**: Converts your productivity goals into tailored rules for permitted applications and usage.
+- **Multi-Modal Alerts**: Issues friendly sound notifications, pop-up warnings, and system alerts to keep you on track.
+- **Distraction Blocking**: Optionally intervenes by closing distracting applications after repeated warnings.
+- **Insightful Analytics**: Provides comprehensive session reports, including productivity rates, top activities, and distraction patterns.
 
-## Installation
+## **Getting Started**
 
-### Prerequisites
-- Python 3.8+
-- Groq API key (free trial available)
-- Supported browsers (Chrome, Firefox, Edge)
+Run Focus Guardian from the command line with your work goal:
+      ```bash
+      python procrastination_preventer.py "Your work goal here" 
 
-### Setup
-1. Clone repository:
-   ```bash
-   git clone https://github.com/Gh-Novel/Procrastination-Preventer.git
-   cd focus-system
-2. Install dependencies:
-   ```bash
-   pip install customtkinter matplotlib pyautogui groq pillow
-3. Create api.txt in root directory and paste your Groq API key
-4. (Optional) For Linux/macOS users:
-   ```bash
-   sudo apt-get install scrot  # For screenshot functionality
+      
+##  Available Flags
+- ** --sfm - Enable Super Focus Mode (3-strike rule).
+- ** --no-sound - Disable warning sounds.
+- ** --no-popup - Disable popup warnings.
+- ** --interval - Adjust the monitoring interval (default: 10 seconds).
+  
+## How It Works
 
-# Usage
+1. Screen Capture & Analysis
+Focus Guardian captures your screen and uses AI to identify the active application or website.
+2. Activity Validation
+It validates whether the current activity aligns with your productivity goal using dynamically generated rules.
+3. Real-Time Alerts
+When a distraction is detected, Focus Guardian alerts you via sound notifications, pop-up warnings, and system alerts.
+4. Session Analytics
+It logs your activities and provides detailed session reports, helping you understand and improve your productivity.
 
-1. Start the application:
-   ```bash
-   python main.py
-2. Set your focus goal (e.g., "Coding in VS Code and researching in Chrome")
-3. Adjust settings:
-   - Check interval (5-60 seconds)
-   - Focus Mode (auto-block after 3 warnings)
-   - Dark/Light theme
-4. Click "Start Focus Session" to begin monitoring
-5. Use "View Analysis" to review historical session data and achievements
-
-#Main UI:
-![image](https://github.com/user-attachments/assets/6566243b-ecb1-4de2-bb5a-602b9d598928)
-#Alert warning:
-![image](https://github.com/user-attachments/assets/cd72281b-6449-4261-9464-343f3a768e55)
-
+## Why Use Focus Guardian?
+- ** Stay Focused: Eliminate distractions and maintain productivity.
+- ** Insights: Get detailed reports to analyze your work habits.
+- ** Customizable: Tailor the tool to match your personal productivity goals.
+- ** User-Friendly: Easy to set up and run from the command line.
+- 
+## Join the Movement
+Focus Guardian is more than just a productivity tool—it's a revolution in work efficiency. Embrace a smarter way to work and say goodbye to procrastination. Join us in the movement towards better focus and enhanced productivity!
