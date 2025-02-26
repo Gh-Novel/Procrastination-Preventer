@@ -1,4 +1,4 @@
-# Focus Guardian
+# Procrastination Prevention
 
 An AI-powered productivity assistant that helps you stay focused on your work by monitoring your screen activity and providing real-time feedback.
 
