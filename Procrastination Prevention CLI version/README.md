@@ -68,26 +68,26 @@ pip install pydub
 ### Basic Usage
 
 ```bash
-python procrastination_preventer.py "Work on my thesis for 2 hours"
+python procrastination_preventer.py "i am going to cod in VS code and use Youtub for research"
 ```
 
 ### With Super Focus Mode (SFM)
 
 ```bash
-python procrastination_preventer.py "Study for my exam" --sfm
+python procrastination_preventer.py "working on MS word for my assignment" --sfm
 ```
 
 ### Customizing the Monitoring Interval
 
 ```bash
-python procrastination_preventer.py "Code a new feature" --interval 20
+python procrastination_preventer.py "Code a new feature" --interval 10
 ```
 
 ### Disable Sound or Popup Alerts
 
 ```bash
-python procrastination_preventer.py "Write an essay" --no-sound
-python procrastination_preventer.py "Design website mockups" --no-popup
+python procrastination_preventer.py "Write an essay in MS word" --no-sound
+python procrastination_preventer.py "Design website mockups in text editor" --no-popup
 ```
 
 ### Analyze Previous Session
