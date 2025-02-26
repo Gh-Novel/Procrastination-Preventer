@@ -18,10 +18,10 @@ Run Focus Guardian from the command line with your work goal:
 
       
 ##  Available Flags
-- ** --sfm - Enable Super Focus Mode (3-strike rule).
-- ** --no-sound - Disable warning sounds.
-- ** --no-popup - Disable popup warnings.
-- ** --interval - Adjust the monitoring interval (default: 10 seconds).
+ --sfm - Enable Super Focus Mode (3-strike rule).
+ --no-sound - Disable warning sounds.
+ --no-popup - Disable popup warnings.
+ --interval - Adjust the monitoring interval (default: 10 seconds).
   
 ## How It Works
 
