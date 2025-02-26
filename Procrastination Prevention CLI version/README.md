@@ -43,7 +43,7 @@ The system uses Groq's LLM models for intelligent activity analysis and adaptive
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/focus-guardian.git
+git clone https://github.com/Gh-Novel/Procrastination-Preventer.git
 cd focus-guardian
 ```
 
