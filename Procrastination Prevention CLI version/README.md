@@ -18,6 +18,8 @@ The system uses Groq's LLM models for intelligent activity analysis and adaptive
 - **Goal-Based Monitoring**: Define your work goals in natural language
 - **Dynamic Rule Generation**: AI-generated rules based on your specific goals
 - **Real-Time Activity Analysis**: Computer vision-based screen monitoring
+  ![image](https://github.com/user-attachments/assets/4831e401-b080-46ad-b516-93dcbeaeccf3)
+
 - **Multi-Modal Alerts**: Sound, popup, and system notifications
 - **Super Focus Mode (SFM)**: Three-strike system with option to block distractions
 - **Session Analytics**: Comprehensive productivity reports
