@@ -23,6 +23,8 @@ The system uses Groq's LLM models for intelligent activity analysis and adaptive
 - **Multi-Modal Alerts**: Sound, popup, and system notifications
 - **Super Focus Mode (SFM)**: Three-strike system with option to block distractions
 - **Session Analytics**: Comprehensive productivity reports
+  ![image](https://github.com/user-attachments/assets/1b5cd4de-fc94-493a-a2b0-afce362a2731)
+
 - **Cross-Platform Support**: Works on Windows, macOS, and Linux
 
 ## Requirements
