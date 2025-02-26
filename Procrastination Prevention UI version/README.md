@@ -1,4 +1,4 @@
-# Focus - Procrastination Prevention System
+# Procrastination Prevention
 
 A smart productivity tool that monitors your computer activity using AI vision models, helps maintain focus through alerts, and provides detailed session analytics.
 
